@@ -36,9 +36,7 @@ If you find this paper useful, please cite it using the following BibTeX:
 @INPROCEEDINGS{Alaofi23GptVariants,
     TITLE = {Can Generative LLMs Create Query Variants for Test Collections? An Exploratory Study},
     AUTHOR = {Alaofi, Marwah and Gallagher, Luke and Sanderson, Mark and Scholer, Falk and Thomas, Paul},
-    BOOKTITLE = {{SIGIR} '23: The 46th International {ACM} {SIGIR}
-                  Conference on Research and Development in
-                  Information Retrieval},
+    BOOKTITLE = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
     YEAR = {2023},
     URL = {https://doi.org/10.1145/3539618.3591960},
     DOI = {10.1145/3539618.3591960},
