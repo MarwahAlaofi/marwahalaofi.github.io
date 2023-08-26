@@ -50,7 +50,7 @@ layout: default
         {% endif %} -->
 
       {% if page.paperurl or page.posterurl %}
-        <p>Download: 
+        <p>Download: [
         {% if page.paperurl %}
           <a href="{{ page.paperurl }}"><u>Preprint</u></a>
           {% if page.posterurl %} | {% endif %}
@@ -58,7 +58,7 @@ layout: default
         {% if page.posterurl %}
           <a href="{{ page.posterurl }}"><u>Poster</u></a>
         {% endif %}
-        </p>
+        ]</p>
       {% endif %}
 
         </header>
