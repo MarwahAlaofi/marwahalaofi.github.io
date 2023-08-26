@@ -9,7 +9,7 @@ and understand this important question, with a view to creating
 search engines that provide more consistent, accurate and relevant
 search results regardless of the searcher’s framing of the query.'
 date: 2022-07-11
-venue: 'SIGIR'
+venue: 'SIGIR’22'
 paperurl: 'http://marwahalaofi.github.io/files/alaofi-2022-where.pdf'
 citation: 'Marwah Alaofi, Luke Gallagher, Dana McKay, Lauren L. Saling, Mark Sanderson, Falk Scholer, Damiano Spina, and Ryen W. White. 2022. Where Do Queries Come From?. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR’22), July 11–15, 2022, Madrid, Spain. ACM, New York, NY, USA, 13 pages.
 https://doi.org/10.1145/3477495.3531711'

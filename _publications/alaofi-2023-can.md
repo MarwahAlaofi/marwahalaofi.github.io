@@ -9,7 +9,7 @@ query variants. While they may not fully capture the wide variety
 of human-generated variants, they generate similar sets of relevant
 documents, reaching up to 71.1% overlap at a pool depth of 100.'
 date: 2023-07-01
-venue: 'SIGIR'
+venue: 'SIGIR’23'
 paperurl: 'http://marwahalaofi.github.io/files/alaofi-2023-can.pdf'
 citation: 'Marwah Alaofi, Luke Gallagher, Mark Sanderson, Falk Scholer, and Paul
 Thomas. 2023. Can Generative LLMs Create Query Variants for Test Collections?: An Exploratory Study. In Proceedings of the 46th International

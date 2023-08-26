@@ -2,9 +2,9 @@
 title: "User-centered Non-factoid Answer Retrieval"
 collection: publications
 permalink: /publication/alaofi-2022-user
-excerpt: 'This paper summarises my research as part of the doctoral consortium at SIGIR'22'
+excerpt: 'This paper summarises my research as part of the doctoral consortium at SIGIR22'
 date: 2022-07-01
-venue: 'SIGIR'
+venue: 'SIGIR’22'
 paperurl: 'http://marwahalaofi.github.io/files/alaofi-2022-user.pdf'
 citation: 'Alaofi, M. (2022, July). User-centered Non-factoid Answer Retrieval. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 3501-3501).'
 ---
