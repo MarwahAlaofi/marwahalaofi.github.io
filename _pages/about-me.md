@@ -1,12 +1,16 @@
 ---
 layout: archive
-title: "about-me"
+title: "More about me..."
 permalink: /about-me/
 author_profile: true
 ---
 
 ## Welcome to My Website 🤗
-about
+My name is **Marwah Khaled Alaofi** [[mahr-wah](https://www.nameshouts.com/names/arabic/pronounce-marwah)] and I am from [Medina](https://www.youtube.com/watch?v=FsCEMJ5jffM), a peaceful city in the west part of Saudi Arabia (AKA Al-Hijaz). It is one of the three holiest cities in Islam and is visited by millions from all over the world. As Saudis, we are proud of our dates and Medina is famous for good quality dates and it is full of dates farms — you can experience visiting some within the city! The city is quiet and peaceful and has been acknowledged by WHO as among the healthiest in the world. I collect some beautiful photos for the city, you may want to check a small [photo gallery](https://www.notion.so/6c4ba55ee48346f9bea4e395946d8908?pvs=21) I created for it.
+
+I have been working in the academic world since I graduated from my bachelor degree in Computer Science from Taibah University. I teach, advise and research as part of my academic role at Taibah University. I obtained my masters from Monash University in 2014 and returned to work as a lecturer in the department of Computer Science at Taibah University. I recently started my PhD in Computer Science at RMIT University in Melbourne, Australia. Read more about [my research](https://www.notion.so/Research-47ee1af8fa81405996257120a2a10309?pvs=21). 
+
+Outside the academic world, I love painting — portraits using watercolors in particular. I share some of my work [here](https://www.instagram.com/marwah.k.a/). I am always seeking life-work balance and I strive to maintain a healthy life style. Covid-19 got me into indoor gardening and I currently own a beautiful Monstera deliciosa and a few fast-growing pothos ☘️. I like traveling and exploring, and I enjoy experiencing cultures and learning about different world civilizations.
 
 <!-- A data-driven personal website
 ======
@@ -17,11 +21,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
