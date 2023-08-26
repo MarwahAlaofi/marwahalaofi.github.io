@@ -7,7 +7,7 @@ The Fair Ranking Track at TREC 2022 aims to address the problem of providing fai
 consists of providing a fair ranking of Wikipedia articles when multiple protected attributes need to be considered. We addressed this challenge by proposing a three-stage approach that includes ad hoc retrieval, explicit Search Results
 Diversification (SRD), and ranking fusion. We also explored the use of a multi-criteria decision-making method (Analytic Hierarchy Process, AHP) as a mechanism to allow stakeholders to have control of the way that different attributes could be combined in the fusion stage.'
 date: 2022-01-01
-venue: 'TREC 2022'
+venue: 'TREC'
 paperurl: 'http://marwahalaofi.github.io/files/pathiyan-2023-rmit.pdf'
 citation: 'CHERUMANAL, SACHIN PATHIYAN, et al. "RMIT CIDDA IR at the TREC 2022 Fair Ranking Track'
 ---
