@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marwah Alaofi"
-  avatar           : "/images/bio-photo.jpeg"
+  avatar           : "bio-photo.jpeg"
   bio              : "A PhD Candidate"
   location         : "Melbourne, Australia"
   employer         :
