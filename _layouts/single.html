@@ -49,12 +49,18 @@ layout: default
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %} -->
 
-        {% page.paperurl %}
-          <p>Downloads: [<a href="Preprint"><u>{{ page.paperurl }}</u></a></p>
-        {% elsif page.poster %}
-          <p>Recommended citation: {{ page.citation }} </p>
+      {% if page.paperurl or page.posterurl %}
+        <p>Download: 
+        {% if page.paperurl %}
+          <a href="{{ page.paperurl }}"><u>Preprint</u></a>
+          {% if page.posterurl %} | {% endif %}
         {% endif %}
-    
+        {% if page.posterurl %}
+          <a href="{{ page.posterurl }}"><u>Poster</u></a>
+        {% endif %}
+        </p>
+      {% endif %}
+
         </header>
       {% endunless %}
 
