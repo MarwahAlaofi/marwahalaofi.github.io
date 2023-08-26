@@ -11,7 +11,7 @@ redirect_from:
 ## Welcome to My Website 🤗
 I am an academic at Taibah University and I am currently pursuing my PhD in user-centered information retrieval at RMIT University. I am honored to work towards my PhD thesis with Professor [Mark Sanderson](http://marksanderson.org/), Professor [Falk Scholer](https://sites.google.com/view/fscholer/) from RMIT and [Paul Thomas](https://www.microsoft.com/en-us/research/people/pathom/) from Microsoft. I am always fascinated by search engines and I am investigating ways to satisfy inquisitive minds beyond the use of search engine result pages (SERPs). Read more about me here.
 
-A data-driven personal website
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -48,4 +48,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
