@@ -58,6 +58,10 @@ layout: default
         {% if page.posterurl %}
           <a href="{{ page.posterurl }}"><u>Poster</u></a>
         {% endif %}
+        {% if page.github %} | {% endif %}
+        {% if page.github %}
+          <a href="{{ page.github }}"><u>Github</u></a>
+        {% endif %}
         ]</p>
       {% endif %}
 

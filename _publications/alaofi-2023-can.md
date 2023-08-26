@@ -11,6 +11,8 @@ documents, reaching up to 71.1% overlap at a pool depth of 100.'
 date: 2023-07-01
 venue: 'SIGIR’23'
 paperurl: 'http://marwahalaofi.github.io/files/alaofi-2023-can.pdf'
+posterurl: 'http://marwahalaofi.github.io/files/alaofi-2023-can-poster.pdf'
+github: https://github.com/MarwahAlaofi/SIGIR-23-SRP-UQV100-GPT-Query-Variants
 citation: 'Marwah Alaofi, Luke Gallagher, Mark Sanderson, Falk Scholer, and Paul
 Thomas. 2023. Can Generative LLMs Create Query Variants for Test Collections?: An Exploratory Study. In Proceedings of the 46th International
 ACM SIGIR Conference on Research and Development in Information Retrieval
