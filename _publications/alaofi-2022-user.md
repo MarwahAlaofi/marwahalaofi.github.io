@@ -1,31 +1,37 @@
 ---
-title: "Personalisation of Generic Library Search Results Using Student Enrolment Information"
+title: "User-centered Non-factoid Answer Retrieval"
 collection: publications
-permalink: /publication/alaofi-2015-personalisation
-excerpt: 'This research explores the application of implicit personalisation techniques in information retrieval in the context of education. Results show the potential of incorporating student enrolment information to create a more effective search environment in which students’ search results are not only driven by the submitted query, but also by the units they are enrolled in.'
-date: 2015-01-01
-venue: 'Journal of Educational Data Mining'
-paperurl: 'http://marwahalaofi.github.io/files/alaofi-2015-personalisation.pdf'
-citation: 'Alaofi, Marwah, and Grace Rumantir. "Personalisation of Generic Library Search Results Using Student Enrolment Information." Journal of Educational Data Mining 7.3 (2015): 68-88.'
+permalink: /publication/alaofi-2022-user
+excerpt: 'This paper summarises my research as part of the doctoral consortium at SIGIR'22'
+date: 2022-07-01
+venue: 'SIGIR'22'
+paperurl: 'http://marwahalaofi.github.io/files/alaofi-2022-user.pdf'
+citation: 'Alaofi, M. (2022, July). User-centered Non-factoid Answer Retrieval. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 3501-3501).'
 ---
 ## Abstract
-This research explores the application of implicit personalisation techniques in information retrieval in the context of education. Motivated by the large and ever-growing volume of resources in digital libraries, coupled with students’ limited experience in searching for these resources, particularly in translating their information needs into queries, this research investigates the potential of incorporating student enrolment information, that is, published information on the units/subjects they are enrolled in, to identify students’ learning needs and produce personalised search results.
-We propose, implement, and evaluate a personalisation approach that makes use of the collection of units a student is enrolled in to generate a student profile used to estimate the relevance of the library resources. To do this, we propose the use of a Final Relevance Score (FRS) measure, which assigns a relevance score for each query-dependent resource based on its similarity to both the student profile and the submitted query, with α parameter controlling the effect of both. To examine the effectiveness of this approach and whether it truly produces any improvement over the library generic approach, this approach was translated into an application called PersoLib and evaluated by a group of 16 students who were doing foundation units in the Masters of Information Technology course at Monash University.
-The evaluation results show that the personalisation approach significantly outperforms the library generic approach. This shows the potential of incorporating student enrolment information to create a more effective search environment in which students’ search results are not only driven by the submitted query, but also by the units they are enrolled in.
+In this research, we aim to examine the assumptions made about users when searching for non-factoid answers using search engines. That is, the way they approach non-factoid question-answering tasks, the language they use to express their questions, the variability in their queries and their behavior towards the provided answers. The investigation will also examine the extent to which these neglected factors affect retrieval performance and potentially highlight the importance of building more realistic methodologies and test collections that capture the real nature of this task. Through our preliminary work, we have begun to explore the characteristics of non-factoid question-answering queries and investigate query variability and their impact on modern retrieval models. Our preliminary results demonstrate notable differences between non-factoid questions sampled from a large query log and those used in QA datasets. In addition, our results demonstrate a profound effect of query variability on retrieval consistency, indicating a potential impact on retrieval performance that is worth studying. We highlight the importance of understanding user behaviour while searching for non-factoid answers, specifically the way they behave in response to receiving an answer. This should advance our understanding of the support users require across different types of non-factoid questions and inform the design of interaction models that support learning and encourage exploring.
 
-[Download the paper](http://academicpages.github.io/files/paper1.pdf)
+
+
+[Download the paper](http://marwahalaofi.github.io/files/alaofi-2022-can.pdf)
 
 ## Citation
 If you find this paper useful, please cite it using the following BibTeX:
 ```
-@ARTICLE{alaofi2015personalisation,
-    TITLE = {Personalisation of Generic Library Search Results Using Student Enrolment Information.},
-    AUTHOR ={ Alaofi, Marwah and Rumantir, Grace},
-    JOURNAL = {Journal of Educational Data Mining},
-    VOLUME = {7},
-    NUMBER = {3},
-    PAGES = {68--88},
-    YEAR = {2015},
-    PUBLISHER = {ERIC}
+@inproceedings{10.1145/3477495.3531689,
+author = {Alaofi, Marwah},
+title = {User-Centered Non-Factoid Answer Retrieval},
+year = {2022},
+isbn = {9781450387323},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi-org.ezproxy.lib.rmit.edu.au/10.1145/3477495.3531689},
+doi = {10.1145/3477495.3531689},
+booktitle = {Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+pages = {3501},
+numpages = {1},
+keywords = {query formulation, non-factoid question-answering, user behaviour},
+location = {Madrid, Spain},
+series = {SIGIR '22}
 }
 ```
