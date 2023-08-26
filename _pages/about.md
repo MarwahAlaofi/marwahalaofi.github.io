@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi, I am Marwah Alaofi (مروة العوفي) 👋🏽"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-hey is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+## Welcome to My Website
+I am an academic at Taibah University and I am currently pursuing my PhD in user-centered information retrieval at RMIT University. I am honored to work with Professor [Mark Sanderson,](http://marksanderson.org/) Professor [Falk Scholer](https://sites.google.com/view/fscholer/) from RMIT and [Paul Thomas](https://www.microsoft.com/en-us/research/people/pathom/) from Microsoft. I am always fascinated by search engines and I am investigating ways to satisfy inquisitive minds beyond the use of search engine result pages (SERPs). Read more about me here.
 
 A data-driven personal website
 ======
