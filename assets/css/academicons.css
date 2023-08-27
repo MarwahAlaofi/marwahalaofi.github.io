@@ -331,3 +331,9 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+a img {
+  height: 20px; /* Adjust this value to your desired icon size */
+  width: auto;
+  margin-right: 5px; /* Space between icon and text or another icon */
+  vertical-align: middle; /* Aligns the icon with the surrounding text */
+}
