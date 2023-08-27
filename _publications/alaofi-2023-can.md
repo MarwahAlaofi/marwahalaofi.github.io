@@ -9,7 +9,7 @@ query variants. While they may not fully capture the wide variety
 of human-generated variants, they generate similar sets of relevant
 documents, reaching up to 71.1% overlap at a pool depth of 100.'
 date: 2023-07-01
-venue: 'SIGIR’23'
+venue: 'SIGIR'
 paperurl: 'http://marwahalaofi.github.io/files/alaofi-2023-can.pdf'
 posterurl: 'http://marwahalaofi.github.io/files/alaofi-2023-can-poster.pdf'
 github: https://github.com/MarwahAlaofi/SIGIR-23-SRP-UQV100-GPT-Query-Variants
