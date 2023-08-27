@@ -337,3 +337,8 @@ a img {
   margin-right: 5px; /* Space between icon and text or another icon */
   vertical-align: middle; /* Aligns the icon with the surrounding text */
 }
+a:hover img {
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
