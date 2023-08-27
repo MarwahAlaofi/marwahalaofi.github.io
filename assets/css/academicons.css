@@ -5,7 +5,7 @@
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
  :root {
-  --primary-color: #83da86; /* Green */
+  --primary-color: #80d383; /* Green */
   --secondary-color: #673AB7; /* Dark Purple */
   --accent-color: #ecd17a; /* Yellow */
 }
@@ -342,8 +342,18 @@ a:hover img {
   outline: none;
   box-shadow: none;
 }
+
 .separator {
   margin: 0 5px;  /* Adjust spacing as needed */
   color: #aaa;    /* Adjust color as needed */
 }
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Barlow', sans-serif;
+}
+
 
