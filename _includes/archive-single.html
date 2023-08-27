@@ -44,19 +44,19 @@
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. Download: [
     {% if post.paperurl %}
       <a href="{{ post.paperurl }}">
-        <img src="/assets/icons/pdf.png" alt="Preprint" title="Preprint">
+        <img src="/assets/icons/pdf.png" alt="Preprint">
       </a>
     {% if post.posterurl %}|{% endif %}
     {% endif %}
     {% if post.posterurl %}
       <a href="{{ post.posterurl }}">
-        <img src="/assets/icons/poster.svg" alt="Poster" title="Poster">
+        <img src="/assets/icons/poster.svg" alt="Poster">
       </a>
     {% endif %}
     {% if post.github %}|{% endif %}
     {% if post.github %}
       <a href="{{ post.github }}">
-        <img src="/assets/icons/github.png" alt="Github" title="Github">
+        <img src="/assets/icons/github.png" alt="Github">
       </a>
     {% endif %}
     ]</p>
