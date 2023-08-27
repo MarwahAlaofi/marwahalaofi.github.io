@@ -9,7 +9,7 @@ redirect_from:
   - /home.html
 ---
 
-## Welcome to My Website 🤗
+## Welcome to My Website!
 I am an academic at Taibah University, and currently pursuing my PhD in User-centered Information Retrieval (IR) at RMIT University. I am honored to work towards my PhD thesis with Professor [Mark Sanderson](http://marksanderson.org/), Professor [Falk Scholer](https://sites.google.com/view/fscholer/) from RMIT and [Paul Thomas](https://www.microsoft.com/en-us/research/people/pathom/) from Microsoft. I am always fascinated by search engines and I am investigating ways to satisfy inquisitive minds beyond the use of search engine result pages (SERPs). Read more about me here.
 
 <!-- A data-driven personal website
