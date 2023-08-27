@@ -357,7 +357,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .archive__item-title a {
-  color: var(--secondary-color);
+  /* color: var(--secondary-color); */
   font-weight: 400; /* Regular font weight */
 
 }
@@ -367,8 +367,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .masthead__menu-item:hover {
-  text-decoration: underline;
-  text-decoration-color: var(--accent-color);
+  background-color: var(--primary-color);
+
+  /* text-decoration: underline;
+  text-decoration-color: var(--accent-color); */
 }
 
 .author__name, .author__bio, .author__urls {
