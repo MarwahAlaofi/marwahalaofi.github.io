@@ -342,3 +342,8 @@ a:hover img {
   outline: none;
   box-shadow: none;
 }
+.separator {
+  margin: 0 5px;  /* Adjust spacing as needed */
+  color: #aaa;    /* Adjust color as needed */
+}
+
