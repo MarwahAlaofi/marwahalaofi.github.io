@@ -14,7 +14,12 @@ layout: compress
   </head>
 
   <body>
-
+    {% if page.header_image %}
+    <div class="header-image">
+        <img src="{{ page.header_image }}" alt="{{ page.title }} header image">
+    </div>
+    {% endif %}
+    
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
