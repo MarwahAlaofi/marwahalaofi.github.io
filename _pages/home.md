@@ -3,6 +3,7 @@ permalink: /
 title: "Hi, I am Marwah Alaofi (مروة العوفي) 👋🏽"
 excerpt: "home"
 author_profile: true
+header_image: /images/dd.jpeg
 redirect_from: 
   - /home/
   - /home.html
