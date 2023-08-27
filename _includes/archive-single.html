@@ -38,28 +38,28 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% if page.paperurl or page.posterurl %}
-          <p>Download: [
-          {% if page.paperurl %}
-            <a href="{{ page.paperurl }}">Preprint</a>
-            {% if page.posterurl %} | {% endif %}
-          {% endif %}
-          {% if page.posterurl %}
-            <a href="{{ page.posterurl }}">Poster</a>
-          {% endif %}
-          {% if page.github %} | {% endif %}
-          {% if page.github %}
-            <a href="{{ page.github }}"><u>Github</u></a>
-          {% endif %}
-          ]</p>
-        {% endif %}
-        {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
+    {% if post.collection == 'teaching' %}
+      <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    {% elsif post.collection == 'publications' %}
+      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      {% if post.paperurl or post.posterurl %}
+      <p>Download: [
+      {% if post.paperurl %}
+        <a href="{{ page.paperurl }}">Preprint</a>
+        {% if post.posterurl %} | {% endif %}
+      {% endif %}
+      {% if page.posterurl %}
+        <a href="{{ post.posterurl }}">Poster</a>
+      {% endif %}
+      {% if post.github %} | {% endif %}
+      {% if post.github %}
+        <a href="{{ post.github }}"><u>Github</u></a>
+      {% endif %}
+      ]</p>
+    {% endif %}
+    {% elsif post.date %}
+      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+    {% endif %}
 
     <!-- {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
