@@ -359,3 +359,6 @@ h1, h2, h3, h4, h5, h6 {
 .archive__item-title a {
   color: var(--secondary-color);
 }
+.masthead__menu-item {
+  font-family: 'Montserrat', sans-serif;
+}
