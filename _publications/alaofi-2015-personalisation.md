@@ -13,7 +13,6 @@ This research explores the application of implicit personalisation techniques in
 We propose, implement, and evaluate a personalisation approach that makes use of the collection of units a student is enrolled in to generate a student profile used to estimate the relevance of the library resources. To do this, we propose the use of a Final Relevance Score (FRS) measure, which assigns a relevance score for each query-dependent resource based on its similarity to both the student profile and the submitted query, with α parameter controlling the effect of both. To examine the effectiveness of this approach and whether it truly produces any improvement over the library generic approach, this approach was translated into an application called PersoLib and evaluated by a group of 16 students who were doing foundation units in the Masters of Information Technology course at Monash University.
 The evaluation results show that the personalisation approach significantly outperforms the library generic approach. This shows the potential of incorporating student enrolment information to create a more effective search environment in which students’ search results are not only driven by the submitted query, but also by the units they are enrolled in.
 
-[Download the paper](http://marwahalaofi.github.io/files/alaofi-2015-personalisation.pdf)
 
 ## Citation
 If you find this paper useful, please cite it using the following BibTeX:

@@ -31,7 +31,6 @@ and understand this important question, with a view to creating
 search engines that provide more consistent, accurate and relevant
 search results regardless of the searcher’s framing of the query.
 
-[Download the paper](http://marwahalaofi.github.io/files/alaofi-2022-where.pdf)
 
 ## Citation
 If you find this paper useful, please cite it using the following BibTeX:

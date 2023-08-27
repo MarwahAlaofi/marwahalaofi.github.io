@@ -30,7 +30,6 @@ query variants. While they may not fully capture the wide variety
 of human-generated variants, they generate similar sets of relevant
 documents, reaching up to 71.1% overlap at a pool depth of 100.
 
-[Download the paper](http://marwahalaofi.github.io/files/alaofi-2023-can.pdf)
 
 ## Citation
 If you find this paper useful, please cite it using the following BibTeX:
