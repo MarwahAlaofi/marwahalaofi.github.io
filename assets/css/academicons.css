@@ -368,3 +368,6 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: underline;
   text-decoration-color: var(--accent-color);
 }
+.author__name, .author__bio, .author__urls {
+  font-family: 'Montserrat', sans-serif;
+}
