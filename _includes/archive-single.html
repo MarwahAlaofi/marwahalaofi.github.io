@@ -46,7 +46,7 @@
       <a href="{{ post.paperurl }}">
         <img src="/assets/icons/pdf.png" alt="Preprint">
       </a>
-    {% if post.posterurl %}|{% endif %}
+    {% if post.posterurl %}<span class="separator">|</span>{% endif %}
     {% endif %}
     {% if post.posterurl %}
       <a href="{{ post.posterurl }}">
