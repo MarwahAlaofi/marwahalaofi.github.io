@@ -344,7 +344,7 @@ a:hover img {
 }
 
 .separator {
-  margin: 0 5px;  /* Adjust spacing as needed */
+  margin: 0 0px;  /* Adjust spacing as needed */
   color: #aaa;    /* Adjust color as needed */
 }
 
@@ -356,4 +356,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Barlow', sans-serif;
 }
 
-
+.archive__item-title a {
+  color: --secondary-color;
+}
