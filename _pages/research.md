@@ -10,8 +10,6 @@ author_profile: true
 {% endif %}
 
 I have always been fascinated by web search engines. What intrigues me the most is how they continue to augment our abilities to find relevant information when navigating the growing information space — from query expansion when we fail to express ourselves to tailoring the retrieved results to meet our personal preferences. 
-
-I am currently investigating ways to help users answer complex information needs beyond the use of Search Engine Result Pages (SERPs). I am broadly interested in understanding how users vary in expression their information needs and the impact of that variations on retrieval. 
 ---
 
 {% include base_path %}
