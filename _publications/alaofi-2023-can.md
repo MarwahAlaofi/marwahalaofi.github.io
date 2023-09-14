@@ -18,6 +18,7 @@ Thomas. 2023. Can Generative LLMs Create Query Variants for Test Collections?: A
 ACM SIGIR Conference on Research and Development in Information Retrieval
 (SIGIR ’23), July 23–27, 2023, Taipei, Taiwan. ACM, New York, NY, USA,
 5 pages. https://doi.org/10.1145/3539618.3591960'
+award: Industry Impact Award at the RMIT/UniMelb 25+ Years of IR
 ---
 ## Abstract
 This paper explores the utility of a Large Language Model (LLM)
