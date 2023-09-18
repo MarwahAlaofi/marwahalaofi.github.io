@@ -185,7 +185,8 @@
     text-decoration: none;
 
     &:hover {
-      color: $accent-color;
+      background-color: $accent-color;
+      color: #fff;
     }
   }
 
