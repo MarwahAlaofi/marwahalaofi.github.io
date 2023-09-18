@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏽 Hello there, I am Marwah مروة! "
+# title: "👋🏽 Hello there, I am Marwah مروة! "
 excerpt: "home"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,8 @@ redirect_from:
 
 
 
-## 👋🏽 Hello there, I am Marwah مروة! ![Saudi Coffee Pot and Cup](images/coffee-p.png)![Saudi Coffee Pot and Cup](images/coffee-pot-black.png)
+## Hello there, I am Marwah مروة!
+Welcome to my personal website![Saudi Coffee Pot and Cup](images/coffee-p.png)![Saudi Coffee Pot and Cup](images/coffee-pot-black.png)
 
 <!-- <img style="display: inline;" src="images/coffee-p.png" alt="Saudi Coffee Pot and Cup"> -->
 
