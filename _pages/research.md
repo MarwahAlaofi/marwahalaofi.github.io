@@ -9,7 +9,9 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+
 I have always been fascinated by web search engines. What intrigues me the most is how they continue to augment our abilities to find relevant information when navigating the growing information space — from query expansion when we fail to express ourselves to tailoring the retrieved results to meet our personal preferences. 
+
 ---
 
 {% include base_path %}
