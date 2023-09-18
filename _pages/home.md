@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Marwah Alaofi"
+# title: "Marwah Alaofi"
 excerpt: "home"
 author_profile: true
 redirect_from: 
