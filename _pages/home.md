@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-### Welcome to my personal website! ![Saudi Coffee Pot and Cup](images/coffee-p.png)![Saudi Coffee Pot and Cup](images/coffee-pot-black.png)
+### Welcome to my personal website! ![Saudi Coffee Pot and Cup](images/coffee-pot-black.png)
 
 <!-- <img style="display: inline;" src="images/coffee-p.png" alt="Saudi Coffee Pot and Cup"> -->
 
