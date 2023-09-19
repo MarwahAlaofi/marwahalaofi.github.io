@@ -64,9 +64,12 @@ layout: default
         {% endif %}
         ]
         {% if page.award %}
-          <span title={{page.award}}>🏆</span>
+          <span title="{{page.award}}">🏆</span>
         {% endif %}
       </p>
+      {% if page.award %}
+          <span>{{page.award}}</span>
+      {% endif %}
 
       {% endif %}
 
