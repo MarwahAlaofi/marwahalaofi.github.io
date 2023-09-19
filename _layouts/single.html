@@ -62,7 +62,12 @@ layout: default
         {% if page.github %}
           <a href="{{ page.github }}">Github</a>
         {% endif %}
-        ]</p>
+        ]
+        {% if page.award %}
+          <span title={{page.award}}>🏆</span>
+        {% endif %}
+      </p>
+
       {% endif %}
 
         </header>
