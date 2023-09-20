@@ -10,8 +10,7 @@ author_profile: true
 {% endif %}
 
 
-I have always been fascinated by web search engines. What intrigues me the most is how they continue to augment our abilities to find relevant information when navigating the growing information space — from query expansion when we fail to express ourselves to tailoring the retrieved results to meet our personal preferences. 
-
+I have always been fascinated by web search engines and the human element they involve. I am interested in how individuals translate their information needs into different queries and how this influences the relevance and quality of the information they encounter. I examine the extent to which these often-neglected factors affect retrieval performance, with the goal of guiding the development of more realistic, user-centered methodologies and test collections.
 ---
 
 {% include base_path %}

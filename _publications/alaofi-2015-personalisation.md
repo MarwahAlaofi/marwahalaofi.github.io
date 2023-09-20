@@ -6,7 +6,7 @@ excerpt: 'This research explores the application of implicit personalisation tec
 date: 2015-01-01
 venue: 'Journal of Educational Data Mining'
 paperurl: 'http://marwahalaofi.github.io/files/alaofi-2015-personalisation.pdf'
-citation: 'Alaofi, Marwah, and Grace Rumantir. "Personalisation of Generic Library Search Results Using Student Enrolment Information." Journal of Educational Data Mining 7.3 (2015): 68-88.'
+citaction: 'Alaofi, Marwah, and Grace Rumantir. "Personalisation of Generic Library Search Results Using Student Enrolment Information." Journal of Educational Data Mining 7.3 (2015): 68-88.'
 ---
 ## Abstract
 This research explores the application of implicit personalisation techniques in information retrieval in the context of education. Motivated by the large and ever-growing volume of resources in digital libraries, coupled with students’ limited experience in searching for these resources, particularly in translating their information needs into queries, this research investigates the potential of incorporating student enrolment information, that is, published information on the units/subjects they are enrolled in, to identify students’ learning needs and produce personalised search results.
