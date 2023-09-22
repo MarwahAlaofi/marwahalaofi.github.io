@@ -1,28 +1,14 @@
 ---
-title: "Object Oriented Programming with Java"
+title: "Web Application Development"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/java
-venue: "Taibah University, Department of Computer Science"
+permalink: /teaching/web-dev
+venue: "Taibah University, Department of Information Systems"
 date: 2018-01-01
 # location: "City, Country"
 ---
 
-I teach this course using Liang's textbook, 'Introduction to Java Programming and Data Structures,' for students who have completed an introductory programming course. The textbook is easy to read and understand, especially for first-year students and particularly for those whose native language is not English. The book features many practical examples that progress as more advanced concepts are covered. The animations included in the slides and made available online greatly enhance understanding—my students and I greatly admire them!
 
 ## Lab Sheets
 
-Lab sheets are designed interactively to help students observe, analyze, and reflect. Ideally, they can serve as a set of enjoyable activities for students seeking extra practice. Originally, these sheets were intended for delivery in eleven weekly lab sessions. With slight modifications, they can also be utilized as in-class activities. Therefore, I've included them in both PDF and Word formats for your convenience. Any improvements to these sheets are not only welcome but also highly appreciated
-
-  <ul>
-    <li>Lab 1: Objects And Classes [<a href="https://marwahalaofi/files/java-programming/CS112-Lab_1_ObjectsAndClasses.pdf">pdf</a>]</li>
-    <li>Lab 2: Objects And Classes Part 2 [<a href="https://marwahalaofi/files/java-programming/CS112-Lab_2_ObjectsAndClasses_part_2.pdf">pdf</a>]</li>
-    <li>Lab 3: Object Oriented Thinking [<a href="https://marwahalaofi/files/java-programming/CS112-Lab_3_ObjectsOrientedThinking.pdf">pdf</a> | <a href="https://marwahalaofi/files/java-programming/CS112-Lab_3_ObjectsOrientedThinking.docx">docx</a>]</li>
-    <li>Lab 4: Object Oriented Thinking Part 2 [<a href="https://marwahalaofi/files/java-programming/CS112-Lab_4_ObjectsOrientedThinking_part_2.pdf">pdf</a>]</li>
-    <li>Lab 5: Inheritance And Polymorphism [<a href="https://marwahalaofi/files/java-programming/CS112-Lab_5_InheritanceAndPolymorphisim.pdf">pdf</a>]</li>
-    <li>Lab 6: ArrayList And Exception Handling [<a href="https://marwahalaofi/files/java-programming/CS112-Lab_6_ArrayListAndExceptionHandling.pdf">pdf</a> | <a href="https://marwahalaofi/files/java-programming/CS112-Lab_6_ArrayListAndExceptionHandling.docx">docx</a>]</li>
-    <li>Lab 8: Files And Exception Handling [<a href="https://marwahalaofi/files/java-programming/CS112-Lab_8_FilesAndExceptionHandling.pdf">pdf</a> | <a href="https://marwahalaofi/files/java-programming/CS112-Lab_8_FilesAndExceptionHandling.docx">docx</a>]</li>
-    <li>Lab 9: Abstract Classes And Interfaces [<a href="https://marwahalaofi/files/java-programming/CS112-Lab_9_AbstractClassesAndInterfacess.docx">docx</a>]</li>
-    <li>Lab 10: JavaFX Basics [<a href="https://marwahalaofi/files/java-programming/CS112-Lab_10_JavaFX_Basics.pdf">pdf</a> | <a href="https://marwahalaofi/files/java-programming/CS112-Lab_10_JavaFX_Basics.docx">docx</a>]</li>
-    <li>Lab 11: Event Driven Programming [<a href="https://marwahalaofi/files/java-programming/CS112-Lab_11_EventDrivenProgramming.pdf">pdf</a> | <a href="https://marwahalaofi/files/java-programming/CS112-Lab_11_EventDrivenProgramming.docx">docx</a>]</li>
-  </ul>
+These sheets are designed to help students observe, analyse and reflect and hopefully can serve as a set of activities to be enjoyed by students for extra practice. They are originally designed to be delivered in 6-7 weekly lab sessions followed by a few sessions allocated for students to work on an ASP.net project. Please note that these sheets are the 1st that I have written in my career in 2015 as a course instructor — though they have a special place in my heart they can be a bit outdated :)
