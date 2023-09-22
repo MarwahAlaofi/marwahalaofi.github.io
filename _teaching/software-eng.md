@@ -39,8 +39,8 @@ This page has a few practical slides and lab sheets on UML which I usually use a
   
   <li>
     <strong>Sequence Diagram</strong> 
-    [<a href="https://marwahalaofi.github.io/files/software-eng/sequence_diagram_slides.pdf">Slides</a> | 
-    <a href="https://marwahalaofi.github.io/files/software-eng/sequence_diagram_labsheet.pdf">Exercises</a>]
+    [<a href="https://marwahalaofi.github.io/files/software-eng/sequence_diagram_slides.pdf" target="_blank">Slides</a> | 
+    <a href="https://marwahalaofi.github.io/files/software-eng/sequence_diagram_labsheet.pdf" target="_blank">Exercises</a>]
   </li>
   
 </ul>
