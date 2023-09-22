@@ -3,7 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-header_image: https://marwahalaofi.github.io/images/image-alignment-580x300.jpg
+image_header: https://marwahalaofi.github.io/images/image-alignment-1200x4002.jpg
 ---
 
 {% if author.googlescholar %}
