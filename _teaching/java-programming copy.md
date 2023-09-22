@@ -12,7 +12,7 @@ I teach this course using Liang's textbook, 'Introduction to Java Programming an
 
 ## Lab Sheets
 
-Lab sheets are designed interactively to help students observe, analyze, and reflect. Ideally, they can serve as a set of enjoyable activities for students seeking extra practice. Originally, these sheets were intended for delivery in eleven weekly lab sessions. With slight modifications, they can also be utilized as in-class activities. Therefore, I've included them in both PDF and Word formats for your convenience. Any improvements to these sheets are not only welcome but also highly appreciated
+Lab sheets are designed interactively to help students observe, analyze, and reflect. Ideally, they can serve as a set of enjoyable activities for students seeking extra practice. Originally, these sheets were intended for delivery in eleven weekly lab sessions. With slight modifications, they can also be utilized as in-class activities. Therefore, I've included them in both PDF and Word formats for your convenience. Any improvements to these sheets are not only welcome but also highly appreciated.
 
 
   <ul>
