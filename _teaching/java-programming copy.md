@@ -18,54 +18,54 @@ Lab sheets are designed interactively to help students observe, analyze, and ref
   <ul>
     <li>
       <strong>Lab 01:</strong> Objects And Classes (Part 1) 
-      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_1_ObjectsAndClasses.pdf">pdf</a> | 
-      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_1_ObjectsAndClasses.docx">docx</a> |
-      <a href="https://marwahalaofi.github.io/files/java-programming/RectangleDemo.java"> demo</a>]
+      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_1_ObjectsAndClasses.pdf" target="_blank">pdf</a> | 
+      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_1_ObjectsAndClasses.docx" target="_blank">docx</a> |
+      <a href="https://marwahalaofi.github.io/files/java-programming/RectangleDemo.java" target="_blank"> demo</a>]
     </li>
     <li>
       <strong>Lab 02:</strong>  Objects And Classes (Part 2) 
-      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_2_ObjectsAndClasses_part_2.pdf">pdf</a> | 
-      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_2_ObjectsAndClasses_part_2.docx">docx</a>]
+      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_2_ObjectsAndClasses_part_2.pdf" target="_blank">pdf</a> | 
+      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_2_ObjectsAndClasses_part_2.docx" target="_blank">docx</a>]
     </li>
     <li>
       <strong>Lab 03:</strong>  Object Oriented Thinking (Part 1)
-      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_3_ObjectsOrientedThinking.pdf">pdf</a> | 
-      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_3_ObjectsOrientedThinking.docx">docx</a>]
+      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_3_ObjectsOrientedThinking.pdf" target="_blank">pdf</a> | 
+      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_3_ObjectsOrientedThinking.docx" target="_blank">docx</a>]
     </li>
     <li>
       <strong>Lab 04:</strong>  Object Oriented Thinking (Part 2) 
-      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_4_ObjectsOrientedThinking_part_2.pdf">pdf</a> | 
-      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_4_ObjectsOrientedThinking_part_2.docx">docx</a> |
-      <a href="https://marwahalaofi.github.io/files/java-programming/lab_3_1.zip"> Code</a>]
+      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_4_ObjectsOrientedThinking_part_2.pdf" target="_blank">pdf</a> | 
+      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_4_ObjectsOrientedThinking_part_2.docx" target="_blank">docx</a> |
+      <a href="https://marwahalaofi.github.io/files/java-programming/lab_3_1.zip" target="_blank"> Code</a>]
     </li>
     <li>
       <strong>Lab 05:</strong>  Inheritance And Polymorphism 
-      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_5_InheritanceAndPolymorphisim.pdf">pdf</a> | 
-      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_5_InheritanceAndPolymorphisim.docx">docx</a>]
+      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_5_InheritanceAndPolymorphisim.pdf" target="_blank">pdf</a> | 
+      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_5_InheritanceAndPolymorphisim.docx" target="_blank">docx</a>]
     </li>
     <li>
       <strong>Lab 06:</strong>  ArrayList And Exception Handling 
-      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_6_ArrayListAndExceptionHandling.pdf">pdf</a> | 
-      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_6_ArrayListAndExceptionHandling.docx">docx</a>]
+      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_6_ArrayListAndExceptionHandling.pdf" target="_blank">pdf</a> | 
+      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_6_ArrayListAndExceptionHandling.docx" target="_blank">docx</a>]
     </li>
     <li>
       <strong>Lab 07:</strong>  Files And Exception Handling 
-      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_8_FilesAndExceptionHandling.pdf">pdf</a> | 
-      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_8_FilesAndExceptionHandling.docx">docx</a>]
+      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_8_FilesAndExceptionHandling.pdf" target="_blank">pdf</a> | 
+      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_8_FilesAndExceptionHandling.docx" target="_blank">docx</a>]
     </li>
     <li>
       <strong>Lab 09:</strong>  Abstract Classes And Interfaces 
-      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_9_AbstractClassesAndInterfacess.pdf">pdf</a> | 
-      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_9_AbstractClassesAndInterfacess.docx">docx</a>]
+      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_9_AbstractClassesAndInterfacess.pdf" target="_blank">pdf</a> | 
+      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_9_AbstractClassesAndInterfacess.docx" target="_blank">docx</a>]
     </li>
     <li>
       <strong>Lab 10:</strong>  JavaFX Basics 
-      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_10_JavaFX_Basics.pdf">pdf</a> | 
-      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_10_JavaFX_Basics.docx">docx</a>]
+      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_10_JavaFX_Basics.pdf" target="_blank">pdf</a> | 
+      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_10_JavaFX_Basics.docx" target="_blank">docx</a>]
     </li>
     <li>
       <strong>Lab 11:</strong>  Event Driven Programming 
-      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_11_EventDrivenProgramming.pdf">pdf</a> | 
-      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_11_EventDrivenProgramming.docx">docx</a>]
+      [<a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_11_EventDrivenProgramming.pdf" target="_blank">pdf</a> | 
+      <a href="https://marwahalaofi.github.io/files/java-programming/CS112-Lab_11_EventDrivenProgramming.docx" target="_blank">docx</a>]
     </li>
   </ul>

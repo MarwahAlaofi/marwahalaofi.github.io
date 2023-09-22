@@ -13,28 +13,28 @@ This page has a few practical slides and lab sheets on UML which I usually use a
 <ul>
 <li>
     <strong>Introduction to UML</strong> 
-    [<a href="https://marwahalaofi.github.io/files/software-eng/introduction_slides.pdf">Slides</a> | 
-    <a href="https://marwahalaofi.github.io/files/software-eng/introduction_labsheet.pdf">Exercise</a>]
+    [<a href="https://marwahalaofi.github.io/files/software-eng/introduction_slides.pdf" target="_blank">Slides</a> | 
+    <a href="https://marwahalaofi.github.io/files/software-eng/introduction_labsheet.pdf" target="_blank">Exercise</a>]
   </li>
   <li>
     <strong>Use case Diagram (Part 1)</strong> 
-    [<a href="https://marwahalaofi.github.io/files/software-eng/usecases_part1_slides.pdf">Slides</a> | 
-    <a href="https://marwahalaofi.github.io/files/software-eng/usecases_part1_labsheet.pdf">Worksheet</a>]
+    [<a href="https://marwahalaofi.github.io/files/software-eng/usecases_part1_slides.pdf" target="_blank">Slides</a> | 
+    <a href="https://marwahalaofi.github.io/files/software-eng/usecases_part1_labsheet.pdf" target="_blank">Worksheet</a>]
   </li>
   <li>
     <strong>Use case Diagram (Part 2)</strong> 
-    [<a href="https://marwahalaofi.github.io/files/software-eng/usecases_part2_slides.pdf">Slides</a> | 
-    <a href="https://marwahalaofi.github.io/files/software-eng/usecases_part2_labsheet.pdf">Exercise</a>]
+    [<a href="https://marwahalaofi.github.io/files/software-eng/usecases_part2_slides.pdf" target="_blank">Slides</a> | 
+    <a href="https://marwahalaofi.github.io/files/software-eng/usecases_part2_labsheet.pdf" target="_blank">Exercise</a>]
   </li>
   <li>
     <strong>Class Diagram (Part 1)</strong> 
-    [<a href="https://marwahalaofi.github.io/files/software-eng/class_diagram_part1_slides.pdf">Slides</a> | 
-    <a href="https://marwahalaofi.github.io/files/software-eng/class_diagram_part1_labsheet.pdf">Exercise</a>]
+    [<a href="https://marwahalaofi.github.io/files/software-eng/class_diagram_part1_slides.pdf" target="_blank">Slides</a> | 
+    <a href="https://marwahalaofi.github.io/files/software-eng/class_diagram_part1_labsheet.pdf" target="_blank">Exercise</a>]
   </li>
   <li>
     <strong>Class Diagram (Part 2)</strong> 
-    [<a href="https://marwahalaofi.github.io/files/software-eng/class_diagram_part2_slides.pdf">Slides</a> | 
-    <a href="https://marwahalaofi.github.io/files/software-eng/class_diagram_part2_labsheet.pdf">Exercise</a>]
+    [<a href="https://marwahalaofi.github.io/files/software-eng/class_diagram_part2_slides.pdf" target="_blank">Slides</a> | 
+    <a href="https://marwahalaofi.github.io/files/software-eng/class_diagram_part2_labsheet.pdf" target="_blank">Exercise</a>]
   </li>
   
   <li>
