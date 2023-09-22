@@ -16,31 +16,31 @@ These sheets are designed to help students observe, analyse and reflect and hope
 <ul>
   
   <li>
-    <strong>IS312 Labsheet 1:</strong> Introduction to HTML5
+    <strong>IS312 Lab sheet 01:</strong> Introduction to HTML5
     [<a href="https://marwahalaofi.github.io/files/web-dev/IS312-labsheet-1.pdf">pdf</a>]
   </li> 
   <li>
-    <strong>IS321 Lab sheet 2:</strong> Introduction to HTML5 (Part 2&3) 
+    <strong>IS321 Lab sheet 02:</strong> Introduction to HTML5 (Part 2&3) 
     [<a href="https://marwahalaofi.github.io/files/web-dev/IS321-labsheet-2.pdf">pdf</a>]
   </li>
   <li>
-    <strong>IS312 Lab sheet 3:</strong> Introduction to CSS
+    <strong>IS312 Lab sheet 03:</strong> Introduction to CSS
     [<a href="https://marwahalaofi.github.io/files/web-dev/IS312-labsheet-3.pdf">pdf</a>]
   </li>
   <li>
-    <strong>IS312 Lab sheet 4:</strong> Introduction to CSS (Part 2)
+    <strong>IS312 Lab sheet 04:</strong> Introduction to CSS (Part 2)
     [<a href="https://marwahalaofi.github.io/files/web-dev/IS312-labsheet-4.pdf">pdf</a>]
   </li>
   <li>
-    <strong>IS312 Lab sheet 5:</strong> Introduction to JavaScript
+    <strong>IS312 Lab sheet 05:</strong> Introduction to JavaScript
     [<a href="https://marwahalaofi.github.io/files/web-dev/IS312-labsheet-5.pdf">pdf</a>]
   </li>
   <li>
-    <strong>IS312 Lab sheet 6:</strong> Introduction to ASP.NET
+    <strong>IS312 Lab sheet 06:</strong> Introduction to ASP.NET
     [<a href="https://marwahalaofi.github.io/files/web-dev/IS312-labsheet-6.pdf">pdf</a>]
   </li>
   <li>
-    <strong>CSS CheatSheet</strong> 
+    <strong>CSS Cheat Sheet</strong> 
     [<a href="https://marwahalaofi.github.io/files/web-dev/CSS-CheatSheet.pdf">pdf</a>]
   </li>
 </ul>
