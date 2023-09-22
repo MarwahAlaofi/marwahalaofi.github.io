@@ -3,7 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-image: /images/image-alignment-1200x4002.jpg
+image: /Users/marwah/personal-web-page/academicpages.github.io/images/image-alignment-1200x4002.jpg
 ---
 
 {% if author.googlescholar %}
