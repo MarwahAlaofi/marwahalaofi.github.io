@@ -3,9 +3,9 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-image_header: https://marwahalaofi.github.io/images/image-alignment-1200x400.jpg
+image_header: https://marwahalaofi.github.io/images/image-alignment-1200x4002.jpg
 ---
-
+images/image-alignment-1200x4002.jpg
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
