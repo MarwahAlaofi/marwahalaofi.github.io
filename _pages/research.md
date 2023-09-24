@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 header_image: https://marwahalaofi.github.io/images/bg.png
 ---
-images/image-alignment-1200x4002.jpg
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
