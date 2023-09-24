@@ -3,6 +3,7 @@ layout: archive
 title: "More about me..."
 permalink: /about-me/
 author_profile: true
+header_image: https://marwahalaofi.github.io/images/bg.png
 ---
 
 My name is **Marwah Khaled Alaofi** [[mahr-wah](https://www.nameshouts.com/names/arabic/pronounce-marwah)] and I am from [Medina](https://www.youtube.com/watch?v=FsCEMJ5jffM), a peaceful city in the west part of Saudi Arabia (AKA Al-Hijaz). It is one of the three holiest cities in Islam and is visited by millions from all over the world. As Saudis, we are proud of our dates and Medina is famous for good quality dates and it is full of dates farms — you can experience visiting some within the city! The city is quiet and peaceful and has been acknowledged by WHO as among the healthiest in the world. I collect some beautiful photos for the city, you may want to check a small [photo gallery](https://www.notion.so/6c4ba55ee48346f9bea4e395946d8908?pvs=21) I created for it.
