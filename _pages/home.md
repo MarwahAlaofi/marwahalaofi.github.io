@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /home/
   - /home.html
-header_image: https://marwahalaofi.github.io/images/bg.png
+header_image: https://marwahalaofi.github.io/images/bg.jpeg
 ---
 
 
