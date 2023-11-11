@@ -1,5 +1,5 @@
 ---
-title: "An Interactive GPT Approach to Enhance Sleep Quality"
+title: "ZzzGPT: An Interactive GPT Approach to Enhance Sleep Quality"
 collection: publications
 permalink: /publication/Khaokaew-2023-zzzGPT
 excerpt: 'In today’s world, sleep quality is pivotal for overall well-being. While wearable sensors offer real-time monitoring, they often lack
