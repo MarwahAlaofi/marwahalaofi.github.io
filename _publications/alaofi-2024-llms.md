@@ -3,7 +3,7 @@ title: "LLMs can be Fooled into Labelling a Document as Relevant"
 collection: publications
 permalink: /publication/alaofi-2024-llms
 excerpt: 'This paper measures the quality vs cost of LLM relevance labelling and proposes multiple gullibility tests to measure the reliability of LLM relevance labelling'
-date: 2022-07-01
+date: 2024-12-09
 venue: 'SIGIR-AP'
 paperurl: 'http://marwahalaofi.github.io/files/alaofi-2024-llms.pdf'
 citation: 'Marwah Alaofi, Paul Thomas, Falk Scholer, and Mark Sanderson. 2024. LLMs can be Fooled into Labelling a Document as Relevant: best café near me; this paper is perfectly relevant. In Proceedings of the 2024 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP ’24), December 9–12, 2024, Tokyo, Japan. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3673791.3698431'
