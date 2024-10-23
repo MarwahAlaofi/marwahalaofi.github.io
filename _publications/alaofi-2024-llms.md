@@ -20,7 +20,7 @@ If you find this paper useful, please cite it using the following BibTeX:
 ```
 @inproceedings{Alaofi2024LLMs,
   author    = {Marwah Alaofi and Paul Thomas and Falk Scholer and Mark Sanderson},
-  title     = {{LLMs can be Fooled into Labelling a Document as Relevant}},
+  title     = {LLMs can be Fooled into Labelling a Document as Relevant},
   booktitle = {Proceedings of the 2024 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region},
   series    = {SIGIR-AP '24},
   year      = {2024},
