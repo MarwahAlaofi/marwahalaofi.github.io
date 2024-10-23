@@ -41,7 +41,9 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-        
+        {% if page.image %}
+        <img src="{{ page.image }}" alt="{{ page.title }}" class="publication-thumbnail">
+      {% endif %}
              
         <!-- {% if page.citation and page.paperurl %}
           <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
@@ -55,6 +57,9 @@ layout: default
           <a href="{{ page.paperurl }}">Preprint</a>
           {% if page.posterurl %} | {% endif %}
         {% endif %}
+       
+       
+
         {% if page.posterurl %}
           <a href="{{ page.posterurl }}">Poster</a>
         {% endif %}
