@@ -356,6 +356,13 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Barlow', sans-serif;
 }
 
+.publication-thumbnail {
+  width: 100px;
+  height: auto;
+  margin: 10px;
+}
+
+
 .archive__item-title a {
   /* color: var(--secondary-color); */
   font-weight: 400; /* Regular font weight */
