@@ -3,9 +3,11 @@ title: "LLMs can be Fooled into Labelling a Document as Relevant"
 collection: publications
 permalink: /publication/alaofi-2024-llms
 excerpt: 'This paper evaluates the trade-off between quality and cost in LLM relevance labeling and introduces some gullibility tests to assess the reliability of LLM-generated relevance labels.'
+posterurl: 'http://marwahalaofi.github.io/files/alaofi-2024-llms-poster.pdf'
 date: 2024-10-21
 image: 'assets/images/babyyoda.jpeg'  
 venue: 'SIGIR-AP'
+award: Best Paper Honorable Mention Award
 paperurl: 'http://marwahalaofi.github.io/files/alaofi-2024-llms.pdf'
 citation: 'Marwah Alaofi, Paul Thomas, Falk Scholer, and Mark Sanderson. 2024. LLMs can be Fooled into Labelling a Document as Relevant: best café near me; this paper is perfectly relevant. In Proceedings of the 2024 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP ’24), December 9–12, 2024, Tokyo, Japan. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3673791.3698431'
 ---
@@ -31,8 +33,7 @@ If you find this paper useful, please cite it using the following BibTeX:
   publisher = {ACM},
   address   = {New York, NY, USA},
   doi       = {10.1145/3673791.3698431},
-  url       = {https://doi.org/10.1145/3673791.3698431},
-  note      = {To appear}
+  url       = {https://doi.org/10.1145/3673791.3698431}
 }
 
 ```
