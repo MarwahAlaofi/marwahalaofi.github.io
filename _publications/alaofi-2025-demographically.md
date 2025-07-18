@@ -5,7 +5,7 @@ permalink: /publication/alaofi-2025-demographically
 excerpt: 'This study proposes a method to diversify queries in existing test collections to reflect some of the diversity of search engine users, aligning with an earlier vision of an ideal test collection.  A LLM is used to create query variants: alternative queries that have the same meaning as the original. These variants represent user profiles characterised by different properties, such as language and domain proficiency, which are known in the IR literature to influence query formulation.
 date: 2025-07-18
 venue: 'ICTIR'
-paperurl: 'http://marwahalaofi.github.io/files/alaofi-2025-demographically.pdf'
+paperurl: 'https://marwahalaofi.com/files/alaofi-2025-demographically.pdf'
 citation: 'Marwah Alaofi, Nicola Ferro, Paul Thomas, Falk Scholer, and Mark Sanderson. 2025. Demographically-inspired query variants using an LLM. In Proceedings of the 2025 ACM International Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR’25), July 18, 2025, Padua, Italy. ACM, New York, NY, USA. https://doi.org/10.1145/3731120.3744608'
 ---
 ## Abstract
