@@ -7,6 +7,7 @@ date: 2025-07-18
 venue: 'ICTIR'
 paperurl: 'https://marwahalaofi.com/files/alaofi-2025-demographically.pdf'
 citation: 'Marwah Alaofi, Nicola Ferro, Paul Thomas, Falk Scholer, and Mark Sanderson. 2025. Demographically-inspired query variants using an LLM. In Proceedings of the 2025 ACM International Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR’25), July 18, 2025, Padua, Italy. ACM, New York, NY, USA. https://doi.org/10.1145/3731120.3744608'
+
 ---
 
 ## Abstract
