@@ -17,10 +17,3 @@ header_image: https://marwahalaofi.github.io/images/bg.jpeg
 I am an academic at Taibah University, currently pursuing my PhD in User-centered Information Retrieval (IR) at RMIT University. I am privileged to be working towards my PhD with Professor [Mark Sanderson](http://marksanderson.org/), Professor [Falk Scholer](https://sites.google.com/view/fscholer/) at RMIT, and Dr [Paul Thomas](https://www.microsoft.com/en-us/research/people/pathom/) from Microsoft. My research focuses on enhancing search engines to better serve diverse users beyond the use of search engine result pages (SERPs).
 
 
-
-
-
-
-
-
-
