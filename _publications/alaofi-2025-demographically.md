@@ -2,7 +2,7 @@
 title: "Demographically-Inspired Query Variants Using an LLM"
 collection: publications
 permalink: /publication/alaofi-2025-demographically
-excerpt: 'This study proposes a method to diversify queries in existing test collections to reflect some of the diversity of search engine users, aligning with an earlier vision of an ideal test collection.  A LLM is used to create query variants: alternative queries that have the same meaning as the original. These variants represent user profiles characterised by different properties, such as language and domain proficiency, which are known in the IR literature to influence query formulation.
+excerpt: 'This study proposes a method to diversify queries in existing test collections'
 date: 2025-07-18
 venue: 'ICTIR'
 paperurl: 'https://marwahalaofi.com/files/alaofi-2025-demographically.pdf'
