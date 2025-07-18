@@ -2,6 +2,7 @@
 title: "Demographically-Inspired Query Variants Using an LLM"
 collection: publications
 permalink: /publication/alaofi-2025-demographically
+posterurl: 'http://marwahalaofi.github.io/files/alaofi-2025-demographically-poster.pdf'
 excerpt: 'This study proposes a method to diversify queries in existing test collections'
 date: 2025-07-18
 venue: 'ICTIR'
