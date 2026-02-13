@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/alaofi-2026-on
 excerpt: ''
 date: 2026-01-19
-venue: 'SIGIR'
+venue: 'TOIS'
 paperurl: 'http://marwahalaofi.github.io/files/alaofi-2026-on.pdf'
 citation: 'Marwah Alaofi, Paul Thomas, Falk Scholer, and Mark Sanderson. 2026. On the Use of LLMs for Relevance Labelling. ACM Trans. Inf. Syst. Just Accepted (January 2026). https://doi.org/10.1145/3788872'
 ---
