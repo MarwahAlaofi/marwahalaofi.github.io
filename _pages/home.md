@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I am Marwah مروة! "
+title: "Hello there, I am Marwah (مروة)! "
 excerpt: "home"
 author_profile: true
 redirect_from: 
